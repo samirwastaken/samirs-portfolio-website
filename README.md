@@ -4,4 +4,4 @@ This website is a display of the projects that I have worked on or am currently 
 
 Samir Katakamsetty
 CS @ Rutgers-New Brunswick
-Matriculating into a B.A. for Computer Science
+Matriculating into a B.A. for Computer Science 
