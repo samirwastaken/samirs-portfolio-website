@@ -23,6 +23,8 @@ h1
     margin-top: 40px;
     width: 350px;
     text-align: center;
+    justify-content: left;
+    
     
     
 }
@@ -39,3 +41,22 @@ h1
     border: solid 1px grey;
     
 }
+
+.navbar
+{
+    float: right;
+    margin-right: 20px;
+    font-size: 18px;
+    display: inline-block;
+    color: black;
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+
+.navbar, a
+{
+    color: black;
+    background-color: whitesmoke;
+    
+}
+
